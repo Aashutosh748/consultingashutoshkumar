@@ -1,1 +1,1 @@
-Visit this website at https://aashutosh748.github.io/consultingashutoshkumar/ 
+Visit this website at https://consultingashutoshkumar.netlify.app/
